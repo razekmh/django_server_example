@@ -2,7 +2,7 @@ astroid==2.3.3
 colorama==0.4.6
 Django==4.2.22
 isort==4.3.21
-lazy-object-proxy==1.4.3
+lazy-object-proxy==1.11.0
 mccabe==0.6.1
 Pillow==10.3.0
 psycopg2==2.8.4
